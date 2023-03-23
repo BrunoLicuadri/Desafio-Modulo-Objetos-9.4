@@ -1,5 +1,5 @@
-import Order from './js/models/Order.js';
-import * as orderService from './js/services/Order-service.js';
+import Order from './js/models/order.js';
+import * as orderService from './js/services/order-service.js';
 
 const data = document.getElementById("Pedido").innerHTML.split("\n");
 
